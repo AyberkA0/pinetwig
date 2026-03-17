@@ -1,3 +1,6 @@
+> [!WARNING]
+> This beta version has expired.
+
 # pinetwig 0.2.2
 [PineTwig](https://pypi.org/project/pinetwig/) is a pinescript-like financial data analysis and trading package. [Release notes](https://github.com/AyberkAtalay0/pinetwig/blob/main/CHANGELOG.md)
 
